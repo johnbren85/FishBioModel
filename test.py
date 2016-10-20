@@ -13,7 +13,7 @@ print '<body>'
 print '<h2>Enter Values for Bioenergetics model</h2>'
 
 
-<form action="/nfs/stak/students/j/johnbren/testenv/Working.py" method="get">
+<form action="/nfs/stak/students/j/myusername/testenv/Working.py" method="get">
 Total Daphnia: <input type="text" name="Total Daphnia">  <br />
 
 Daphnia Size: <input type="text" name="Daphnia Size" />  <br />
