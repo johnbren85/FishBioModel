@@ -5,7 +5,7 @@ import cgi, cgitb
 cgitb.enable()
 import os
 import sys
-os.chdir('/nfs/stak/students/j/johnbren/')
+os.chdir('/nfs/stak/students/j/myusername/')
 from numpy import *
 from scipy.interpolate import interp1d
 from scipy.integrate import trapz
